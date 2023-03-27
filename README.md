@@ -16,3 +16,5 @@
 </p>
 
 ***<p style="text-align: center;">Here is the output of the first 19 itterations</p>***
+
+## Chapter Two: Images to Matrix in Python 
