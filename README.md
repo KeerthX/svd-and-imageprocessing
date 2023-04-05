@@ -18,3 +18,8 @@
 ***<p style="text-align: center;">Here is the output of the first 19 itterations</p>***
 
 ## Chapter Two: Images to Matrix in Python 
+
+<hr>
+
+- [Images to Matrix](https://github.com/KeerthX/svd-and-imageprocessing/blob/main/4.%20Images%20to%20Matrix.py)
+- [Shape Transformation using Functions]()

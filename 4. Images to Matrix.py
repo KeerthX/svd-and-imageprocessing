@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 #use the imread(file_location) function to read the image.
 #the image is read as a matrix with each element representing the value of the colour in that place
 
-image = img.imread('image.png') 
+image = img.imread('image.jpg') 
 
 #using the imshow property we display the image and we get the same image as before
 
