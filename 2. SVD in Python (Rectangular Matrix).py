@@ -19,7 +19,7 @@ S = np.zeros_like(matrix)
 S[:min(matrix.shape), :min(matrix.shape)] = np.diag(s)
 
 #Reconstruct the matrix using @ operator
-new_matrix = U@s@VT
+new_matrix = U@S@VT
 
 # Print the results
 print("Original matrix A =\n", matrix)

@@ -47,7 +47,3 @@ for n in range (0,21):
     plt.show() 
 
 #I prefer to use Spyder because it gives an automatic visualization, the video on how it is done is provided with this git repo.
-
-
-plt.plot(w,c)
-plt.show()
